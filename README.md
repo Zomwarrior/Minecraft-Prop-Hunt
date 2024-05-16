@@ -1,5 +1,6 @@
 # Minecraft-Prop-Hunt
 A Minecraft datapack that adds Prop Hunt to the game
+
 Type /reload if a new player joins the game (This will end the current game)
 
 To join the Hider Team, type /team join Hider PLAYERNAME
