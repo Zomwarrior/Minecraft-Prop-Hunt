@@ -1,7 +1,7 @@
 # Minecraft-Prop-Hunt
 A Minecraft datapack that adds Prop Hunt to the game
 
-To add this datapack to your game, place the zip file called "PropHunt-0.0.1" directly into the datapacks folder of your world
+To add this datapack to your game, place the zip file called "PropHunt-#.#.#" (Where # represent version numbers) directly into the datapacks folder of your world
 
 Type /reload if a new player joins the game (This will end the current game)
 
